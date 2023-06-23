@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Naveen-kumar-H
-- 👀 I’m interested in 
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web development projects
 
 <!---
 Naveen-kumar-H/Naveen-kumar-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
